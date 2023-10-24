@@ -1,0 +1,413 @@
+Clusters,Documents ,Keywords,
+0,"doc4, doc14, doc12, doc28, doc8, doc26, doc13, doc10","Ni–H systems, Transmutation, Low-energy-nuclear-reactions,Alloys, Graphite, High-voltage",
+1,"doc15, doc16, doc11, doc7, doc3, doc17, doc22, doc30, doc29","WKB approximation, LENR, plasma electrolysis, pyrolysis, hydrogen generation, transmutation",
+2,"doc5, doc9, doc32, doc25, doc1, doc31, doc27, doc18, doc23, doc20, doc24, doc2, doc19","LENR, Transmutation, Electrolysis, fusion",
+,,,
+Clusters,Documents,Title,Abstract
+0,doc4.pdf,"MATERIALS ISSUES OF LOADING DEUTERIUM INTO PALLADIUM AND THE ASSOCIATION WITH EXCESS HEAT PRODUCTION M.C.H. McKubre and F. L. Tanzella SRI International, 333 Ravenswood Avenue, Menlo Park, CA Abstract The ability of palladium cathodes to attain and maintain high loading levels, at high","
+the ability of palladium cathodes to attain and maintain high loading levels, at high
+current density and for long times, is controlled by two factors: the condition of the
+electrochemical interface which allows the attainment of high deuterium activity; the defect
+density and mechanical condition of the bulk material which permits the pd lattice to withstand
+and contain high bulk deuterium activities when these equilibrate to produce extreme pressures of
+deuterium gas inside closed incipient voids within the metal.
+examples are given from a set of 26 intentionally similar current ramps which show
+three distinct modes of loading performance: mode a - a linear decrease of pd resistance,
+beyond the resistance maximum, with logarithmic increase in electrochemical current; mode b -an
+initial log-linear decrease on the mode a trajectory, followed by a rapid increase in resistance
+when the resistance falls below a critical value; mode c - a shallow decrease in resistance with
+approximately symmetric increase as the [log] current density is increased beyond a threshold
+value similar to that for mode b. mode a is most frequently associated with the appearance of
+calorimetrically determined excess heat.
+"
+0,doc16.pdf,"Nuclear Physics Approach Anomalous Phenomena in E<18 KeV Hydrogen Ion Beam Implantation Experiments on Pd and Ti WANG Tieshan* PIAO Yubo** HAO Jifang* WANG Xuezhi** JIN Genming* and NIU Zhanqi** *Institute of Modern Physics, Chinese Academy of Sciences Lanzhou 730000, P.R. China","
+implantation experiments of very low energy (lkev <e<18kev ) hydrogen ions on hydrogen
+loaded metals have been performed with high beam density (jmax.~1.2 mncm2) and weak beam
+density (j min.~ 0.02 mncm2). palladium and titanium foils (plates) have been bombarded with proton
+and deuteron beams in order to compare the atomic and nuclear interactions between different ion
+beams. x ray and charged particles have been measured, and neutron and gamma doses were also
+monitored during implanting experiments. an anomalous peak in x-spectra, which energy is about
+four times of beam energy, has been observed during high beam density experiment. the peak moved
+from about 40 kev to 62 kev and fwhm reduced rapidly, while the beam energy and intensity
+increased. another wide peak with over twice of the beam energy has been measured in experiment
+with low beam density. this peak located between 16 and 30 kev, and its peak position grew with the
+growth of integrated implantation dose (implantation time). some anomalous intensities of neutrons
+correlated with a charged particle peak (3-4 mev) have been also observed in deuteron-palladium
+experiment. the highest neutron intensity reached about 8 x 104n/s, while the beam energy and
+intensity was about 15 ke v and 1.0 ma, respectively.
+"
+0,doc14.pdf,SEARCH FOR COHERENT DEUTERON FUSION BY BEAM AND ELECTROLYSIS EXPERIMENTS,"] procedures and results of three kinds of experiments i.e., closed type d o/pd electrolysis,
+2
+electron beam irradiation and ion-beam bombardment on titanium-deuteride (tidx) have been
+introduced in this paper. in the electrolysis experiment, upper gas of the electrolysis cell was analyzed
+using a quadrupole mass analysis system (q-mas). significant amount of helium-4 was detected
+without neutron emission in several experiments and in one of these experiments, the amount of
+helium-4 atom in the released gas from the palladium cathode was 8.1x1016 atoms. under electron
+beam irradiation to highly d-loaded palladium, anomalous spectra were taken in x-ray measurement.
+in the experiments using deuteron beam and tidx, responses which suggested 3d multi-body fusion
+were taken and the reaction rate of which was increased compared to the d(d,p)t reaction rate, below
+100 kev. this result may reflect the coherent effect of the solid state in the reactions. from the results
+of the experiments using proton beam and tidx, peaks which suggested 3d multi-body reaction were
+detected with high reproducibility. moreover, high energetic protons having 17-20 mev emitted
+kinetic energy which suggested h-d-d three-body coherent fusion were also detected.
+"
+0,doc25.pdf,Femto-Helium and PdD Transmutation,"
+extensive evidence exists for cold fusion to produce transmutation products as well as excess heat. this paper deals with the
+palladium–deuteride (pdd) structure that is generally modeled with a deuterium-to-helium (d + d 4he) cold-fusion process.
+⇒
+how this process results in transmutation is based on the extended-lochon model that predicts deep-orbit electrons that are tightly
+bound to the 4he nucleus and thus make the equivalent of a neutralized alpha particle. this model is compared with the nih system
+(h + h d, h##, or 2h#) described earlier and distinguishes long-range from short-range transmutation (distance from the fusion
+⇒ 2
+site) as well as the relative excess energies from fusion vs. transmutation. the model predicts the probable transmutation process(es)
+and products in the palladium system and explains other observed results of cold-fusion experiments.
+© 2015 iscmns. all rights reserved. issn 2227-3123
+"
+0,doc11.pdf,Integrated approach for high resolution surface characterization: coupling focused ion beam with micro and nano mechanical tests.,". in the present paper, we will give a brief overview about the synergic use of two high
+resolution techniques with focus on applications on thin coatings: focused ion beam (coupled
+with electron beam) imaging, milling and deposition technique (briefly called fib) and
+nanoindentation. after a basic description of both techniques (architecture, probe-sample
+interaction basics and operation modes), we will demonstrate effectiveness of this approach for
+microstructural investigation on very small samples without any sample preparation or pre-
+processing by presenting two case studies:
+(i) analysis of residual stresses of engineered surfaces by coupling focused ion beam controlled
+material removal and nanoindentation testing, and
+(ii) nano-mechanical characterization of sputtered niobium thin films for application in
+accelerating cavities.
+"
+0,doc8.pdf,"1 SOME CHARACTERISTICS OF HEAT PRODUCTION USING THE “COLD FUSION” EFFECT Edmund Storms Los Alamos National Laboratory (retired) MS-C358, Los Alamos, NM 87545 Abstract Additional evidence is presented to show that heat production resulting from the Pons-Fleis-","
+additional evidence is presented to show that heat production resulting from the pons-fleis-
+chmann effect has a positive temperature coefficient, has a critical onset current density, and
+originates at the palladium cathode.
+"
+0,doc7.pdf,Heat Production and Trial to Detect Nuclear Products from Palladium-Deuterium Electrolysis Cells,"
+a burst-like excess heat release, equivalent to 110% of the input electric power,
+was clearly observed for the first time in our newly built open type electrolysis cell using
+pd/0.l mliod/pt. after being precharged, the cell was driven to boiling three times the
+last of which continued for about 16 hours to almost dryness. the burst occurred just
+during the calm period about 6 hours after the first boiling. the temperature of the cell,
+about 100 ml in volume, increased by 7.5 kin 13 minutes. a palladium cathode, 2mm¢>
+x 7.05mm, was a heat source, although the mechanism of the heat generation is still
+uncertain. during the whole period of this run, however, the phenomenon took place
+only once. neither increase of neutron emission nor that of tritium concentration has
+been detected. mass analysis showed that any traces of d2 as well as 4he have not
+remained in the pd sample used. detection of 'yray emission as well as 3he and 4he in
+off gas during or just after release of excess power should be yet to be pursued further.
+"
+0,doc31.pdf,LENR Transmutation of Stable Sr and K Isotopes in Activated Microbiological Syntrophic Anaerobic Association,"
+137
+in our previous works [1]–[5], an effective method for accelerated deactivation of the reactor cs isotope during nuclear reaction
+of transmutation cs137 + p = ba138 in growing microbiological cultures was presented and discussed. in the present study we have
+attempted to solve the problem of accelerated transmutation of another very dangerous radioactive sr90 isotope. this paper presents
+the results of investigation of the nuclear reaction sr88 + p = y89 a transmutation to a stable sr88 analog of radioactive sr90 isotope.
+the research was carried out on the basis of optimal anaerobic syntrophic associations under the stimulated long-distant action of
+weak undamped thermal waves.
+© 2022 iccf. all rights reserved. issn 2227-3123
+"
+0,doc27.pdf,Transmutations Involving the Di-neutron in Condensed Matter,"
+it has been recently revealed how a lattice bound proton, in an electrochemical cathode, can absorb a relativistic electron
+yielding a neutron. there is no longer much doubt that the analogous electron capture by a deuteron, in condensed matter,
+( foe r−re mal e+ d1 i-p n↑e0 un t↑ ron→ ma0 yn b↓ e0n v↑ an+ ishν ie n) gli ys se hv oen rt,m bo ur te inef tfi heci pe an lt l, aw dih ue mre dt eh ue tea rr ir do ew ms ai tn rd ixic a wte n shu oc wleo thn as tp ii tn is s. cet rh tae inli lf ye st uim ffie cio ef ntt lh ye lon ne gw tl oy
+d , e
+undergo transmutation with constituents of the matrix as well as added “impurities” to yield both isotopic and isotonic products:
+i.e. (0n 0n +106 pd 108pd). when the agent capturing the di-neutron is 1h, tritium is the result. when it is 2h, 4he and heat
+↓ ↑ →
+are the products (the fleishmann pons heat effect). consistent with the tendency of di-neutrons to cluster, multiple di-neutrons are
+occasionally captured yielding neutron heavy nuclei. this is followed by beta decay and the respective isotonic products. we show
+that, within the pdd matrix, these di-neutron reactions involve phonon enforced quantum tunneling. the di-neutron-phonon mech-
+anism fully accounts for the following: (1) the evolved heat commensurate with 4he production, (2) the production of tritium when
+small amounts of 1h are present, (3) the release of feeble neutrons, (4) the formation of pr when cs is present, (5) the ostensive
+intermittent reproducibility and erratic (chaotic) heat out-puts, and (6) the seemingly major problem of obfuscating the coulombic
+repulsion issue. indeed, the antics of the di-neutron can fully explain the important aspects of normal temperature lenr heat
+effects and transmutations. further, the di-neutron paradigm (mechanism) falls within the normal bounds of the standard model,
+and it is without the necessity of exotic forms of matter.
+c 2019 iscmns. all rights reserved. issn 2227-3123
+#
+"
+0,doc18.pdf,LENR- Experiment on Heterogeneous Hydrocarbon Plasma Jet Interaction with Ni-Foil-Target,"
+heterogeneous hydrocarbon plasma (hhp) was used in lenr experiments in the studies [1], [2] for the first time. this hhp
+was created by a pulsed erosive capillary plasma generator (pg). the working erosive substance pmma (polymethyl-methacrylate,
+monomer-c h o ) was used in this pg. this work is a continuation of the previous ones [1], [2]. a calorimetric experiment with
+5 8 2
+pg and distant ni-foil cathode has been carried out in argon atmosphere (pst~1 bar). it was determined that hhp consists of the
+carbon nano-clusters and hydrogen atoms + hydrogen ions. these species are connected with dissociation of the initial pmma.
+the interaction of hhp with thin ni-foil target (width 0.1 ÷ 1 mm) has been studied in this work. hhp- jet heats, melts and
+evaporates this thin ni-foil target. in a result of this interaction a small hole with diameter 1–3 mm in the ni-foil target was burned
+by hhp-jet. parameters of this hole were measured. ni-foil weight was measured before and after the experiment also. it was
+revealed that the value cop was about of 5 ÷ 6 in this experiment (where cop = qt/qe, qt – thermal energy of heating, melting
+and evaporating of the ni-foil-target, qe-electric energy input for hhp-jet creation). new transmuted chemical elements li, al,
+ca,. . . were recorded in the hhp by the optical spectroscopy method, the eds-method and the ms icp method.
+© 2022 iccf. all rights reserved. issn 2227-3123
+"
+0,doc17.pdf,Screening Energy of the d+d Reaction in an Electron Plasma Deduced from Cooperative Colliding Reaction,"
+we have measured protons and tritons from the d (d,p) t reaction in liquid in, sn, pb and bi during the d+ molecular deuterium
+3
+beam bombardment for 15 < e < 60 kev. observed energy spectra and yield excitation functions are anomalous and suggest that
+the target deuteron is also in motion. it is found that the reaction mechanism is unique to the molecular beam in such a way that one
+deuteron in a molecule is elastically scattered by a host metal atom and then it collides with the other to cause the d+d reaction.
+we call it as the cooperative colliding mechanism (ccm). experimental data are compared with the ccm calculation and values of
+the screening energy of the d+d reaction are deduced. they are 380 80, 570 80, 670 100 and 490 100 ev for in, sn, pb
+± ± ± ±
+and bi, respectively. it is concluded that the screening energy of the d+d reaction in an electron plasma in metal is really large: the
+averaged value of 530 ev is more than ten times larger than the simple thomas–fermi screening prediction.
+c 2016 iscmns. all rights reserved. issn 2227-3123
+""
+"
+0,doc26.pdf,Upper Bound in the Fusion Products and Transmutation Enhancement in Alloys,"
+significant elemental transmutations occur on cathodes comprised of either pure metals (ni, cu) or the alloys kanthal
+(fe cr al ) and ni-fe (ni fe ) in light water electrolysis highly biased (~30 v) against a pure graphite anode. the
+0.74 0.21 0.05 0.93 0.07
+utilization of graphite as an anode is advantageous because it avoids anode-driven contamination and establishes a distinct upper
+bound in the fusion products (cu), which is different from upper bounds in previous studies (pb or ag) with a pt anode. whenever
+isotopic shifts were measured following transmutation, they differed from the natural ratios. pure ni cathode predominantly trans-
+mutes to fe and cu, pure cu cathode transmutes to fe and mg, kanthal shows the appearance of cu and mg and the ni-fe alloy
+transmutes to mg and cu. while the extent of transmutation in pure cathodes is a few tens of percent after about twelve hours of
+cathodic hydrogen loading (chl), kanthal and ni-fe alloy show comparable or larger amounts of transmutations in less than an
+hour of chl.
+© 2022 iccf. all rights reserved. issn 2227-3123
+"
+0,doc2.pdf,Electromagnetic Emission in the kHz to GHz Range Associated with Heat Production During Electrochemical Loading of Deuterium into Palladium: A Summary and Analysis of Results Obtained by Different Research Groups,"
+there is a small literature on the combination of low energy nuclear reactions (lenr) experiments and radiofrequencies (rf).
+the papers are worth attention in case they can teach anything about the mechanisms behind lenr. application of rf to lenr
+electrochemical cells in the mid-1990s clearly showed increases in the production of excess power. more recently, rf have been
+measured in lenr cells. however, it is still possible that those data are artifacts of the operation of the system, and not indicative of
+lenr. it has been suggested that the appearance of rf in lenr experiments is the cause of lenr, and not merely a manifestation
+of such reactions. that possibility has significant implications. in the present paper, we summarize and analyze the results obtained
+by different research groups concerning the application and emission of rf in the khz to ghz range associated with heat production
+during electrochemical loading of deuterium into palladium.
+c 2016 iscmns. all rights reserved. issn 2227-3123
+""
+"
+0,doc10.pdf,Charged Particle Emissions and Surface Morphology of Pd/PdO:D and TiD Targets Under Electron Beam Excitation,". we report charged particle emission from metal deuterides upon e-beam excitation of
+their surface. detection and identification was made using cr-39 plastic track detectors with cu
+and al absorbers. protons with primary energy 3 mev and α-particles with energies e > 10 mev
+α
+are observed.
+"
+,,,
+,,,
+,,,
+1,doc12.pdf,Charged Particle Emission during Electron Beam Excitation of Deuterium Subsystem in Pd and Ti- Deuteride Targets,"
+energetic charged particle emissions accompanying deuterium desorption from
+specially prepared pd/pdo:dx and tidx targets in vacuum, stimulated by electron
+beam (j ~ 0.6 ma/cm2, u = 30 kev) have been studied using a set of cr-39
+plastic track detectors covered with various metal foil filters. it was found that the
+electron bombardment of those targets is caused by statistically significant
+emissions of dd-reaction product (3 mev protons), as well as high energy alpha
+particles (11-20 mev). at the same time the pd/pdo:dx and the tidx samples
+show no sign of nuclear emissions during vacuum exposure without e-beam
+stimulation. extrapolation of both the dd-reaction cross section and the
+enhancement factor (consistent with calculated screening potential u = 750 ev)
+e
+to very low deuteron energy allowed us to satisfactorily describe the detected dd-
+reaction yield in pd/pdo:d target, assuming “hot” deuteron (e ~ 3.0 ev)
+x d
+generation under e-beam bombardment. this result strongly supports the
+theoretical prediction [1,2] with regards to electron excitation of the d- subsystem
+in pd- deuterides
+"
+1,doc1.pdf,Heat Production and RF Detection during Cathodic Polarization of Palladium in 0.1 M LiOD,"
+the study of the fleischmann–pons effect (fpe), i.e. the production of excess power production during electrochemical loading
+of deuterium in palladium (in the past labeled cold fusion) has had a notably multidisciplinary character, involving solid state and
+nuclear physics, material science, electrochemistry and other fields. correlations between the material status and the occurrence of
+the effect as well as some changes in the electrochemical interface status have been observed. although during the last two decades,
+in several calorimetric experiments the effect was observed to be well above the measurement uncertainty, the mechanism producing
+the excess power is not completely understood. so far, the lack of reproducibility has been responsible for the absence of a clear
+explanation of the phenomenon based on experimental apparatus designed to enhance the spectrum of information required to
+define the effect. recently, in order to improve this aspect of this research, specific work has been carried out to investigate whether
+the excess power was produced concurrently with the emission of radio frequency from the active cathode. suitable probes
+and triggering included in the rf experimental system revealed rf signal emission during electrochemical loading of palladium
+samples, and a correlation between the heat production, in active samples, and rf signal emission was found. the preliminary
+results highlight the importance of performing studies on the electrodynamic effects that may be involved in the phenomenon, and
+the importance of the design of appropriate instruments designed to investigate unexplored regions of metal hydrogen systems.
+c 2016 iscmns. all rights reserved. issn 2227-3123
+""
+"
+1,doc22.pdf,Generation of Heat and Products During Plasma Electrolysis,": direct decomposition of water is very difficult in normal conditions. hydrogen gas
+can be usually obtained by electrolysis or by a pyrolysis reaction at high temperatures, starting
+at approximately 3700ºc. however, as we have already reported, anomalous heat generation
+can occur during plasma electrolysis, and this process makes it rather easy to achieve both
+electrolysis and pyrolysis simultaneously. in this paper we describe anomalous amounts of
+hydrogen and oxygen gas generated during plasma electrolysis. the generation of hydrogen far
+in excess of amounts predicted by faraday’s law is continuously observed when conditions such
+as temperature, current density, input voltage and electrode surface are suitable. non-faraday
+generation of hydrogen gas sometimes produces more than 80 times as much hydrogen as
+normal electrolysis does. unfortunately there have been few claimed replications of excess
+hydrogen, even in rare cases in which excess heat is claimed. in most cases, no excess heat or
+hydrogen is observed. the reaction products found after electrolysis were different after excess
+heat generation.
+key words: plasma electrolysis, pyrolysis, hydrogen generation, transmutation
+"
+1,doc24.pdf,"""Quasi-Plasma"" Transport Model in Deuterium","
+the pd-d system has been described assuming a two-population
+model. a ""quasi-plasma"" delocalized boson gas picture has been used
+for the deuterons exceeding the stoichiometric ratio in pd-d
+compounds.
+a mathematical model sup�orted by a numerical computer code
+with distributed parameters has been developed in order to describe
+the evolution of the deuteron concentration profile inside a pd
+cathode under pulsed electrolysis. several boundary conditions have
+been taken into account.
+a strong correlation has been found between the model system
+evolution and the experimental data 1.
+"
+1,doc19.pdf,Pressurized Plasma Electrolysis Experiments,"
+we have performed a plasma electrolysis experiment for the first time at a pressure of 5 105 pa in a specially designed calorimeter.
+×
+the cathode was a 2 mm tungsten rod, and the anode was a stainless-steel foil. the electrolyte was 0.6 mol k2co3 in light water.
+in one instance, we observed excess heat of 20 w for 90 min.
+c 2015 iscmns. all rights reserved. issn 2227-3123
+#
+"
+,,,
+,,,
+,,,
+2,doc5.pdf,Excess Heat Production and Nuclear Ash in PdO/Pd/PdO Heterostructure after Electrochemical Saturation with Deuterium,"
+heat production nuclear ash and electrophysical processes in pdo/pd/pdo (au/pd/pdo)
+heterostructures electrochemically saturated with deuterium (hydrogen) have been
+investigated. it was shown in after electrolysis period a strong heat flash with duration of 2-7
+s and energy density of 60-100 j/cm2 was observed for pd/pdo:d(h) sample placed in air
+atmosphere. the thermal energy of each flash was approximately 2-5 times higher than the
+energy supplied to the sample during electrolysis. neutron- and γ-emissions accompanying
+the heat production have been investigated.
+"
+2,doc9.pdf,Multifunctional Ion Beam Installation “HELIS” as a new instrument for advanced LENR research,". the ion beam installation helis (p.n. lebedev physics institute, moscow, russia) represents an
+ion accelerator of light elements with atomic number in the range z=1-54 with ion energies ranging from 0.5
+to 50 kev operating at deuteron current densities up to 2 a/cm2 and intended to perform a wide spectrum of
+physical experiments related to lenr.
+"
+2,doc32.pdf,Nickel Transmutation and Excess Heat Model using Reversible Thermodynamics,"
+this research develops the least action nuclear process (lanp) model of cold fusion, by assuming that the process is thermody-
+namically reversible. this requires: (1) one element of new physical theory, a far-from-equilibrium black body equation having a
+second temperature scale and (2) a nuclear reaction selection method based on the principle of least action. the model appears to
+predict nuclear transmutations observed in miley’s nickel microspheres, without false positives, and provides a plausible explanation
+of loading and ignition processes, excess heat, no excess heat, and the absence of gamma radiation. the model shows how solar
+core temperatures can exist in a laboratory temperature device. this presentation is abstracted from a larger technical paper.
+© 2014 iscmns. all rights reserved. issn 2227-3123
+"
+2,doc3.pdf,EXCESS HEAT PRODUCTION IN Pd/D DURING PERIODIC PULSE DISCHARGE CURRENT IN VARIOUS CONDITIONS,"
+experimental data from low energy nuclear reactions (lern) in condensed media are presented. the
+nuclear reactions products were found in solid cathode media used in glow discharge. apparently, the nuclear
+reactions were initiated when bombarding the cathode surface by plasma ions with the energy of 1.0-2.0 kev.
+excess heat from a high current glow discharge reaction in d , xe and kr using cathodes already charged
+2
+with preliminary deuterium-charged pd and ti cathode samples are given. excess heat up to 10 - 15 w and
+efficiency up to 130% was recorded under the experiments for pd cathode samples in d discharge. excess
+2
+heat up to 5 w and efficiency up to 150% was recorded for pd cathodes that were charged with deuterium
+before the run, in xe and kr discharges. at the same time excess heat was not observed for pure pd cathode
+samples in xe and kr discharges. the formation of impurity nuclides (7li, 13c, 15n, 20ne, 29si, 44ca, 48ca,
+56fe, 57fe, 59co, 64zn, 66zn, 75as, 107ag, 109ag, 110cg, 111cg, 112cg, 114cg, 115in) with the efficiency up to 1013
+atoms/s was recorded. the isotopic ratios of these new nuclides was quite different from the natural ratios.
+soft x-ray radiation from the solid-state cathode with the intensity up to 0.01gy/s was recorded in
+experiments with discharges in h , d , ar, xe and kr. the x-ray radiation was observed in bursts of up to
+2 2
+106 photons, with up to 105 bursts per second while the discharge was formed and within 100 ms after turning
+off the discharge current. the results of the x-ray radiation registration showed that the exited energy levels
+have a lifetime up to 100 ms or more, and the energy of 1.2 - 2.5 kev. a possible mechanism for producing
+excess heat and nuclear transmutation reactions in the solid medium with the exited energy levels is
+considered.
+"
+2,doc13.pdf,RESEARCH INTO CHARACTERISTICS OF X-RAY EMISSION LASER BEAMS FROM SOLID-STATE CATHODE MEDIUM OF HIGH-CURRENT GLOW DISCHARGE,"
+x-ray emissions ranging 1.2 – 3.0 kev with dose rate up to 1.0 gy/s have been registered in
+experiments with high-current glow discharge. the emissions energy and intensity depend on
+the cathode material; the kind of plasma-forming gas; and the discharge parameters. the
+experiments were carried out on the high-current glow discharge device using d , h , kr and xe
+2 2
+at pressure up to 10 torr, as well as cathode samples made from al, sc, ti, ni, nb, zr, mo, pd,
+ta, w, pt, at current up to 500 ma and discharge voltage of 500-2500 v. two emission modes
+were revealed under the experiments: 1. diffusion x-rays was observed as separate x-ray bursts
+(up to 5×105 bursts a second and up to 106 x-ray quanta in a burst); 2. x-rays in the form of laser
+microbeams (up to 104 beams a second and up to 1010 x-ray of quanta in a beam, angular
+divergence was up to 10-4, the duration of the separate laser beams must be τ =3·10-13 - 3·10-14 s,
+the separate beam power must be 107 – 108 w). the emission of the x-ray laser beams occurred
+when the discharge occurred and within 100 ms after turning off the current. the results of
+experimental research into the characteristics of secondary penetrating radiation occurring when
+interacting primary x-ray beams from a solid-state cathode medium with targets made of various
+materials are reported. it was shown that the secondary radiation consisted of fast electrons.
+secondary radiation of two types was observed: 1. the emission with a continuous temporal
+spectrum in the form of separate bursts with intensity up to 106 fast electrons a burst. 2. the
+emission with a discrete temporal spectrum and emission rate up to 1010 fast electrons a burst. a
+third type of the penetrating radiation was observed as well. this type was recorded directly by
+the photomultiplier placed behind of the target without the scintillator. the abnormal high
+penetrating ability of this radiation type requires additional research to explain. the obtained
+results show that creating optically active medium with long-living metastable levels with the
+energy of 1.0 - 3.0 kev and more is possible in the solid state.
+"
+,,,
+,,,
+,,,
+3,doc28.pdf,Evidence for Nuclear Transmutations in Ni–H Electrolysis,"
+we report an easily reproducible low energy nuclear reactions (lenr) electrolysis experiment on an ni–h system. an elec-
+trolytic cell with a ni cathode and a pt anode with an aqueous (h2o not d2o) solution of k2co3 as electrolyte was used for the
+experiment. a dc-power supply capable of supplying up to 5 a current was used to drive the electrolysis with the typical current
+being around 4 a and the applied voltage about 100 v. after running the electrolysis for about two weeks with a daily run time of 8
+h on an average, a part of the nickel electrode, which by this time had become black, was taken for elemental analysis using energy
+dispersive spectroscopy (eds). the eds analysis showed that a whole host of new elements had appeared on the cathode such as:
+k, fe, cu, o, rh, zr and pb. the apparent concentration of the elements varied from just over a percent for k and pb to about 10%
+for rh and 20% for cu. the sample was then taken to a time of flight secondary ion mass spectrometer (tof-sims) for isotopic
+analysis. this analysis also showed that a set of new elements had appeared on the nickel wire which were: k, si, mg, mn, zn,
+o & rh. the ni itself was found to have the following isotopes: 58ni, 60ni and 62ni with isotope concentration ratios differing
+significantly from the ratio found in naturally occurring ni. it was clear that in the electrolyzed ni the concentrations of 60ni and
+62ni had gone down compared to the concentration of 58ni. this is a clear indication that nuclear reactions had taken place during
+electrolysis.
+c 2017 iscmns. all rights reserved. issn 2227-3123
+""
+"
+3,doc23.pdf,Confirmation of heat generation and anomalous element caused by plasma electrolysis in the liquid,"
+plasma was formed on the electrode surface in a liquid electrolyte when a metal cathode
+was polarized in high voltage electrolysis in the solution. during the plasma electrolysis large
+amounts of heat are sometimes generated. the heat can exceed input substantially, in some cases
+by up to 200 percent of input power. at the same time, anomalous elements are detected in the
+electrolyte and on the electrode surface. based on the heat and the product, we hypothesize a
+nuclear reaction can be induced by photon activation on the cathode element.
+"
+3,doc29.pdf,Theoretical Study of the Transmutation Reactions,"
+transmutation reactions are studied from a theoretical point of view. an idea is proposed to explain the variations in the transmuta-
+tion ability of different elements, especially the relative inertness of palladium compared to the other elements. proposals are made
+in order to verify experimentally this explanation and to enhance the transmutation signal.
+c 2016 iscmns. all rights reserved. issn 2227-3123
+""
+"
+,,,
+,,,
+,,,
+4,doc15.pdf,ICCF-7,"
+low energy (l-300kev) deuterium ion beam implantation experiment on palladium
+and titanium foil (plate) were preformed, in order to study the nuclear and atomic
+interaction in solid. x-ray, y ray, charged particle and neutron ware measured
+simultaneously. a series of anomalous experimental phenomena ware observed. a clear
+peak at 3.2mevwas observed, when a pre-loading 1idx was applied. this peak became
+evidently, following the implantation dose. therefore, it is considered as the alpha peak
+from d-t secondary reaction. its maximum ratio to d-d reaction reached 0.0015. this
+ratio was much higher than prediction value based on the secondary reaction of d-d
+fusion. some unknown high energy counts located from 3.5mevto 17mevin charged
+particle spectra has been observed for many times. sometimes the counts concentrated
+in limited area, which appeared like a peak but poor statistics. the phenomena were
+dij]icult to be reproduced. in the x-ray spectra, there were many characteristic peaks
+from fe, ni, cu, zn, as, zr, ru, pd etc elements. the gamma radiation up to 30mev
+was measured with a hpge detector. comparing to background, the intensity of
+foreground was a few orders higher. there was also a few counts distributed around
+17mevand 24mev, which might be the gamma ray from d(d, y )'he reactions.
+"
+4,doc20.pdf,Searching for excess heat in Mizuno-type plasma electrolysis,"
+excess heat generated in the glow discharge plasma electrolysis, first reported by
+mizuno and ohmori (1), has been studied by several researchers, both in japan (2,
+3, 4) and in other countries (5, 6, 7, 8). most reports, but not all, confirmed
+generation of excess heat. facing this situation we decided to replicate the most
+recent experiment (8) in which excess heat was reported to increase with voltage.
+our results do not confirm reality of excess heat.
+"
+4,doc30.pdf,Is the Abundance of Elements in Earth’s Crust Correlated with LENR Transmutation Rates?,"
+nuclear transmutations are reported in many low-energy nuclear reaction (lenr) experiments. we showed in a previous study
+(scholkmann and nagel, j. condensed matter nucl. sci. 13 (2014) 485–494) that (i) the transmutation data of three independent
+experiments have a similar pattern and (ii) this pattern correlates with a model-based on the prediction of widom and larsen (wl).
+in the present study, we extended our analysis and investigated whether the abundance of elements in earth’s crust is correlated with
+either (i) the wl-prediction, or (ii) the three lenr transmutation data sets. the first analysis revealed that there is no statistically
+significant correlation between these variables. the second analysis showed a significant correlation, but the correlation only
+reflects the trend of the data and not the peak-like pattern. this result strengthens the interpretation that the observed peak-like
+pattern in the transmutation data sets does not originate from contamination. further implications of our study are discussed and a
+recommendation is given for future transmutation experiments.
+c 2016 iscmns. all rights reserved. issn 2227-3123
+""
+"
